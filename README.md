@@ -10,13 +10,13 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/wellersonfc/gp-front.git
-   cd gp-front
+   cd gp-front```
 
 2.Instale as dependências:
-```- npm install
+```- npm install```
 
 3. Inicie o servidor:
-```- npm start
+```- npm start```
 
 4. Acesse a aplicação no navegador em http://localhost:3001
 
